@@ -1,1 +1,184 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Derivação de "Projeto: Blog"</title>
+        <style>
+        
+            body{
+                font-size: 1em;
+                color:rgb(0, 0, 0);
+                font-family:"Helvetica", monospace;
+                font-style:normal;
+                background-color: pink;
+            }
+            
+            h1{
+                font-size:2.0em;
+                color:rgb(245,24,208);
+                font-family:"Helvetica",monospace;
+                font-style:normal;
+                background-color:black;
+            }
+            
+            h2{
+                font-size:2em;
+                color:rgb(245, 24, 208);
+                font-family:"Helvetica",monospace;
+                font-style: normal;
+                background-color:black;
+            }
+            
+            h3{
+                background-color:black;
+                font-size:2.9em;
+                color: rgb(245,24,208);
+                font-family:"Helvetica",monospace;
+                font-style:normal;
+               
+                }
+                
+            .gta{
+                font-size:1.5em;
+                font-family:"Helvetica",monospace;
+                color:rgb(245,24,208);
+                background-color:black;
+                font-style:normal;
+                
+            }
+            
+            .bombapatch{
+                font-size:1.5em;
+                font-family:"Helvetica",monospace;
+                color:rgb(245,24,208);
+                background-color:black;
+                font-style:normal;
+            }
+            
+            .streetfighter {
+                font-size:1.5em;
+                color: rgb(245,24,208);
+                 font-family:"Helvetica",monospace;
+                background-color:black;
+                font-style:normal;
+                
+            }
+            
+            .habbo{
+                font-size:1.5em;
+                color:rgb(245,24,208);
+                font-family:"Helvetica",monospace;
+                background-color:black;
+                font-style:normal;
+            }
+            
+            .bully{
+                font-size:1.5em;
+                color: rgb(245,24,208);
+                font-family:"Helvetica",monospace;
+                background-color:black;
+                font-style:normal;
+            }
+            
+            h5{
+                font-size:1.5em;
+                color: rgb(245, 24, 208);
+                font-family:"Helvetica",monospace;
+                background-color:black;
+                font-style:normal;
+            }
+        
+                
+        </style>
+    </head>
+    <body>
+    
+    <h1>5 JOGOS QUE MARCARAM MINHA VIDA</h1>
+    
+    <p class="jogos">
+       
+        <h3>GTA SAN ANDREAS</h3>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d3/Grand_Theft_Auto_San_Andreas_capa.png/270px-Grand_Theft_Auto_San_Andreas_capa.png" alt="Gta San Andreas" width="200">
+        
+        <ul>
+            <li>
+            
+            <p class="gta">
+            
+            Gta San Andreas foi um dos jogos que mais me diverti jogando e ainda hoje me traz muita nostálgia jogando. Com toda certeza é um dos jogos que mais marcou a minha vida e de todo gamer de respeito.
+            </li>
+        </ul>
+        
+        
+        <h3>
+            BOMBA PATCH
+            
+                 </h3>
+                 
+                 <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/6/65/Bomba_Patch_77.jpg/220px-Bomba_Patch_77.jpg" alt="Bomba Patch" width="200">
+            
+            <ul>
+                <li>
+                
+                <p class="bombapatch">
+                
+                Um dos jogos mais populares que joguei na minha infância e um dos mais doidos também, eram outros tempos o PS2 era o consoleda geração e esse era um dos jogos mais encontrados. Assim como foi International Superstar Soccer para a galera dos anos 90 o Bomba Patch foi o jogo que marcou os anos 2000 sem sombra de dúvidas
+                
+                </li>
+                
+            </ul>
+            
+            <h3>
+                STREET FIGHTER
+                
+            </h3>
+            
+            <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/1/11/Street_fighter_original.jpg/220px-Street_fighter_original.jpg"alt="Street Fighter"width="400">
+            
+             <ul>
+                    <li>
+                    
+                    <p class="streetfighter">
+                    
+                    O jogo de luta que mais joguei na vida, passava horas com jogando com os amigos tanto no fliperama quanto no PS2.Foi um jogo que disputei muitas vezes com o meu primo, e mesmo eu perdendo quase todos as partidas tenho muito boas das tardes em que a gente passava jogando. Algo que eu nunca irei esquecer
+                
+                    </li>
+                </ul>
+                
+            <h3>
+                HABBO HOTEL
+            </h3>
+            
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Habbo.gif"alt="Habbo Hotel" width= "250">
+            
+            <ul>
+                <li>
+                    <p class="habbo">
+                    
+                    Talvez esse seja o jogo que mais joguei em toda minha vida, desde 2011 jogo habbo. Foi um jogo importante demais na minha vida, os laços que desenvolvi ali, a vida que tive dentro do jogo, as pessoas, as experiências de vida que tive ali dentro com toda certeza o Habbo Hotel foi o jogo que mais marcou a minha vida.
+                    
+                
+                </li>
+            </ul>
+            
+            <h3>
+                BULLY
+            </h3>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/d/de/Bully_us_capa_pt.jpg/270px-Bully_us_capa_pt.jpg" alt="Bully" width="250">
+        
+        <ul>
+            <li>
+            
+            <p class="bully">
+            
+                Um dos jogos que mais me diverti jogando, apesar do tema do jogo ser complicado. Bully é um jogo onde explora a capacidade de um estudante de dar a volta por cima de tudo e se dar bem nada escola. O jogo é bem divertido, as missões, os diálogos, tudo no jogo é muito bom. Com toda certeza é um jogo que todos deveriam jogar, pois mesmo sendo de um tema bem polêmico o jogo é muito divertido
+                
+            </li>
+        </ul>
+        
+        <h5> <em> E VOCÊ JÁ JOGOU ALGUM DESSE JOGOS??</em> </h5>
+        
+    </body>
+</html>
